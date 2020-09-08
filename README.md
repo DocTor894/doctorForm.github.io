@@ -1,3 +1,6 @@
+---
+permalink: /index.html
+---
 # form-validate
 
 ## Project setup
